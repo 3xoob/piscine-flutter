@@ -14,12 +14,7 @@ class Student extends Person {
     required this.level,
     String secretKey = '01',
   })  : _secretKey = secretKey,
-        super(
-          name: name,
-          cityOfOrigin: cityOfOrigin,
-          age: age,
-          height: height,
-        );
+        super(name, cityOfOrigin, age, height);
 
   String get secretKey => _secretKey;
 }
