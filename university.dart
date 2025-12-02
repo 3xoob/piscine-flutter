@@ -3,11 +3,8 @@ class University {
   String _city;
   int? _ranking;
 
-  University({
-    required String name,
-    required String city,
-    int? ranking,
-  })  : _name = name,
+  University(String name, String city, [int? ranking])
+      : _name = name,
         _city = city,
         _ranking = ranking;
 
@@ -17,4 +14,3 @@ class University {
 
   int? get ranking => _ranking;
 }
-
