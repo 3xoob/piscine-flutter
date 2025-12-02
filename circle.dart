@@ -3,11 +3,7 @@ class Circle {
   double y;
   double radius;
 
-  Circle({
-    required this.x,
-    required this.y,
-    required this.radius,
-  });
+  Circle(this.x, this.y, this.radius);
 
   double get area => 3.14 * radius * radius;
 
@@ -21,4 +17,3 @@ class Circle {
 
   double get lowestCoordinate => y - radius;
 }
-
