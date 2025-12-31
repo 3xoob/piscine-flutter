@@ -1,0 +1,22 @@
+name: note
+description: A simple Flutter package providing a Note model and SQLite database helper with CRUD operations.
+version: 0.0.1
+homepage: https://learn.reboot01.com/git/aabdulhu/package
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  path_provider: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  # This is a Flutter package (not an app), so no additional configuration is required here.
+
