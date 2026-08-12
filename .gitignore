@@ -84,6 +84,7 @@ Thumbs.db
 .flutter-plugins-dependencies
 .pub-cache/
 ephemeral/
+bizz-card/assets/profile.png
 # Environment and sensitive configuration
 secret.*
 # Private keys and certificates
