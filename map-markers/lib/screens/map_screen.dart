@@ -9,7 +9,7 @@ import 'package:http/http.dart' as http;
 
 import '../models/place.dart';
 
-const String kGoogleApiKey = 'AIzaSyBD2weoYPwtn1IFVgQTvRnv4tJvOuOMSeE';
+const String kGoogleApiKey = 'YOUR_GOOGLE_MAPS_API_KEY_HERE';
 
 class MapScreen extends StatefulWidget {
   final List<Place> places;
