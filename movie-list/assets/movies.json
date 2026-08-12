@@ -1,0 +1,112 @@
+[
+  {
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Genre": "Drama",
+    "Director": "Frank Darabont",
+    "Actors": "Tim Robbins, Morgan Freeman",
+    "Runtime": "142 min",
+    "imdbRating": "9.3",
+    "Poster": "https://picsum.photos/200/300?random=1",
+    "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino",
+    "Runtime": "175 min",
+    "imdbRating": "9.2",
+    "Poster": "https://picsum.photos/200/300?random=2",
+    "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Christopher Nolan",
+    "Actors": "Christian Bale, Heath Ledger",
+    "Runtime": "152 min",
+    "imdbRating": "9.0",
+    "Poster": "https://picsum.photos/200/300?random=3",
+    "Plot": "Batman faces the Joker, a criminal mastermind who plunges Gotham City into chaos."
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+    "Runtime": "148 min",
+    "imdbRating": "8.8",
+    "Poster": "https://picsum.photos/200/300?random=4",
+    "Plot": "A thief who steals corporate secrets through dream-sharing technology is tasked with planting an idea into the mind of a CEO."
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Genre": "Crime, Drama",
+    "Director": "Quentin Tarantino",
+    "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+    "Runtime": "154 min",
+    "imdbRating": "8.9",
+    "Poster": "https://picsum.photos/200/300?random=5",
+    "Plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in tales of violence and redemption."
+  },
+  {
+    "Title": "Fight Club",
+    "Year": "1999",
+    "Genre": "Drama",
+    "Director": "David Fincher",
+    "Actors": "Brad Pitt, Edward Norton",
+    "Runtime": "139 min",
+    "imdbRating": "8.8",
+    "Poster": "https://picsum.photos/200/300?random=6",
+    "Plot": "An insomniac office worker and a soap maker form an underground fight club that evolves into something much more."
+  },
+  {
+    "Title": "Forrest Gump",
+    "Year": "1994",
+    "Genre": "Drama, Romance",
+    "Director": "Robert Zemeckis",
+    "Actors": "Tom Hanks, Robin Wright",
+    "Runtime": "142 min",
+    "imdbRating": "8.8",
+    "Poster": "https://picsum.photos/200/300?random=7",
+    "Plot": "The presidencies of Kennedy and Johnson, the Vietnam War, and more, seen through the eyes of an Alabama man."
+  },
+  {
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne",
+    "Runtime": "136 min",
+    "imdbRating": "8.7",
+    "Poster": "https://picsum.photos/200/300?random=8",
+    "Plot": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers."
+  },
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Actors": "Matthew McConaughey, Anne Hathaway",
+    "Runtime": "169 min",
+    "imdbRating": "8.6",
+    "Poster": "https://picsum.photos/200/300?random=9",
+    "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "Title": "Avatar",
+    "Year": "2009",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "James Cameron",
+    "Actors": "Sam Worthington, Zoe Saldana",
+    "Runtime": "162 min",
+    "imdbRating": "7.8",
+    "Poster": "https://picsum.photos/200/300?random=10",
+    "Plot": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission."
+  }
+]

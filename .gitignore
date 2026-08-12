@@ -77,6 +77,13 @@ temp/
 Thumbs.db
 *.swp
 *.swo
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+ephemeral/
 # Environment and sensitive configuration
 secret.*
 # Private keys and certificates

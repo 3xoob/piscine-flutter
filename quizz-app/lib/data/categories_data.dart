@@ -1,0 +1,86 @@
+import '../models/category.dart';
+import '../models/question.dart';
+
+final List<Category> categories = [
+  Category(
+    'History',
+    'https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg',
+    [
+      Question('The Great Wall of China is visible from space with the naked eye.', false),
+      Question('World War II ended in 1945.', true),
+      Question('The Roman Empire fell in 476 AD.', true),
+      Question('The first man on the Moon was Yuri Gagarin.', false),
+      Question('The Cold War was a direct armed conflict between the USA and USSR.', false),
+      Question('The printing press was invented by Johannes Gutenberg.', true),
+      Question('The Titanic sank on its first voyage.', true),
+      Question('The pyramids of Giza are in Iraq.', false),
+      Question('The Berlin Wall fell in 1989.', true),
+      Question('Ancient Egyptians wrote using hieroglyphs.', true),
+    ],
+  ),
+  Category(
+    'Geography',
+    'https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg',
+    [
+      Question('The Amazon River is the longest river in the world.', false),
+      Question('Mount Everest is located in the Himalayas.', true),
+      Question('Australia is both a country and a continent.', true),
+      Question('The Sahara is the largest desert in the world.', true),
+      Question('Japan is located in the Atlantic Ocean.', false),
+      Question('The Nile River flows through Egypt.', true),
+      Question('There are 7 continents on Earth.', true),
+      Question('Greenland is larger than India.', true),
+      Question('The capital of Canada is Toronto.', false),
+      Question('Africa is the second-largest continent by land area.', true),
+    ],
+  ),
+  Category(
+    'Math',
+    'https://images.pexels.com/photos/373098/pexels-photo-373098.jpeg',
+    [
+      Question('Zero is an even number.', true),
+      Question('Pi is approximately equal to 3.14.', true),
+      Question('The square root of 64 is 9.', false),
+      Question('A triangle always has three sides.', true),
+      Question('In a right triangle, the longest side is called the hypotenuse.', true),
+      Question('Negative numbers cannot have square roots.', false),
+      Question('An acute angle is greater than 90 degrees.', false),
+      Question('5 is a prime number.', true),
+      Question('10 divided by 2 equals 4.', false),
+      Question('The sum of interior angles of a triangle is 180 degrees.', true),
+    ],
+  ),
+  Category(
+    'Science',
+    'https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg',
+    [
+      Question('Water boils at 100°C at sea level.', true),
+      Question('Humans have three lungs.', false),
+      Question('The Earth revolves around the Sun.', true),
+      Question('Plants produce oxygen during photosynthesis.', true),
+      Question('The human body has 206 bones.', true),
+      Question('Sound travels faster than light.', false),
+      Question('Electrons are negatively charged particles.', true),
+      Question('The chemical symbol for gold is Au.', true),
+      Question('Mars is known as the Red Planet.', true),
+      Question('The sun is a planet.', false),
+    ],
+  ),
+  Category(
+    'Culture',
+    'https://images.pexels.com/photos/1047442/pexels-photo-1047442.jpeg',
+    [
+      Question('The Mona Lisa was painted by Leonardo da Vinci.', true),
+      Question('The Olympics originated in ancient Greece.', true),
+      Question('Sushi is a traditional dish from China.', false),
+      Question('The Eiffel Tower is located in Rome.', false),
+      Question('Spanish is the most spoken language in the world.', false),
+      Question('The Taj Mahal is located in India.', true),
+      Question('Reggae music originated in Jamaica.', true),
+      Question('The Great Barrier Reef is in Australia.', true),
+      Question('Soccer is also known as football in many countries.', true),
+      Question('The pyramids were built in the 20th century.', false),
+    ],
+  ),
+];
+
